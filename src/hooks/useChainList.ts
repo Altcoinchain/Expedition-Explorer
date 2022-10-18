@@ -10,7 +10,7 @@ export default function() {
      {
       name: "Altcoinchain",
       network: "mainnet",
-      rpc: ["http://161.35.101.221:8545"],
+      rpc: ["https://rpc0.altcoinchain.org"],
     },
     {
       name: "Ethereum Classic",
