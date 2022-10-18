@@ -9,8 +9,8 @@ export default function() {
   const [chains, setChains] = React.useState<Chain[]>([
      {
       name: "Altcoinchain",
-      network: "pre-net",
-      rpc: ["http://161.35.101.221:8545"],
+      network: "mainnet",
+      rpc: ["http://161.35.101.221"],
     },
     {
       name: "Ethereum Classic",
