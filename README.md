@@ -55,7 +55,7 @@ Explorer Features:
 ### Installation
 Clone/ download the project, and install dependencies.
 ```bash
-git clone https://github.com/xops/expedition.git && cd expedition && npm install
+git clone https://github.com/Altcoinchain/Expedition-Explorer.git && cd Expedition-Explorer && npm install
 ```
 
 <!-- example usage, screen shots, demos -->
