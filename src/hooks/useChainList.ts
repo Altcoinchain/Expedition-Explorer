@@ -11,8 +11,8 @@ export default function() {
       name: "Altcoinchain",
       network: "mainnet",
       rpc: ["http://161.35.101.221:8545"],
-      chainId: 12345;
-      shortName: ["ALT"];
+      chainId: 12345,
+      shortName: ["ALT"],
     },
     {
       name: "Ethereum Classic",
