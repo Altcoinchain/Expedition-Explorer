@@ -12,7 +12,6 @@ export default function() {
       network: "mainnet",
       rpc: ["http://161.35.101.221:8545"],
       chainId: 12345,
-      shortName: ["ALT"],
     },
     {
       name: "Ethereum Classic",
